@@ -1,0 +1,11 @@
+{
+  "name": "create-my-app",
+  "version": "0.1.0",
+  "description": "Create new app based on templates on repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Tsany Qudsi",
+  "license": "MIT"
+}
